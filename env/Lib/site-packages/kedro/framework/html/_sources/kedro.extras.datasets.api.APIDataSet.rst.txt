@@ -1,0 +1,29 @@
+kedro.extras.datasets.api.APIDataSet
+====================================
+
+.. currentmodule:: kedro.extras.datasets.api
+
+.. autoclass:: APIDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      APIDataSet.__init__
+      APIDataSet.exists
+      APIDataSet.from_config
+      APIDataSet.load
+      APIDataSet.release
+      APIDataSet.save
+    
+   

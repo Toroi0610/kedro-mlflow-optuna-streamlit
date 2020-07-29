@@ -1,0 +1,29 @@
+kedro.extras.datasets.pandas.SQLQueryDataSet
+============================================
+
+.. currentmodule:: kedro.extras.datasets.pandas
+
+.. autoclass:: SQLQueryDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      SQLQueryDataSet.__init__
+      SQLQueryDataSet.exists
+      SQLQueryDataSet.from_config
+      SQLQueryDataSet.load
+      SQLQueryDataSet.release
+      SQLQueryDataSet.save
+    
+   

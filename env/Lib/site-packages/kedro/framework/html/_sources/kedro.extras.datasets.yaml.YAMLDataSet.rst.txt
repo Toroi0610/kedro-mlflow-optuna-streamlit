@@ -1,0 +1,37 @@
+kedro.extras.datasets.yaml.YAMLDataSet
+======================================
+
+.. currentmodule:: kedro.extras.datasets.yaml
+
+.. autoclass:: YAMLDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      YAMLDataSet.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      YAMLDataSet.__init__
+      YAMLDataSet.exists
+      YAMLDataSet.from_config
+      YAMLDataSet.load
+      YAMLDataSet.release
+      YAMLDataSet.resolve_load_version
+      YAMLDataSet.resolve_save_version
+      YAMLDataSet.save
+    
+   

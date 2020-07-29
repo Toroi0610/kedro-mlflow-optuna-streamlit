@@ -1,0 +1,36 @@
+kedro.extras.datasets.pandas.AppendableExcelDataSet
+===================================================
+
+.. currentmodule:: kedro.extras.datasets.pandas
+
+.. autoclass:: AppendableExcelDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      AppendableExcelDataSet.DEFAULT_LOAD_ARGS
+      AppendableExcelDataSet.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      AppendableExcelDataSet.__init__
+      AppendableExcelDataSet.exists
+      AppendableExcelDataSet.from_config
+      AppendableExcelDataSet.load
+      AppendableExcelDataSet.release
+      AppendableExcelDataSet.save
+    
+   

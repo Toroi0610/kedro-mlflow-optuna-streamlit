@@ -1,0 +1,6 @@
+kedro.framework.cli.get\_project\_context
+=========================================
+
+.. currentmodule:: kedro.framework.cli
+
+.. autofunction:: get_project_context

@@ -1,0 +1,6 @@
+kedro.extras.transformers.memory\_profiler.ProfileMemoryTransformer
+===================================================================
+
+.. currentmodule:: kedro.extras.transformers.memory_profiler
+
+.. autoclass:: ProfileMemoryTransformer

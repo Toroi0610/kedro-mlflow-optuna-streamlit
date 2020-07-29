@@ -1,0 +1,6 @@
+kedro.framework.context.load\_context
+=====================================
+
+.. currentmodule:: kedro.framework.context
+
+.. autofunction:: load_context

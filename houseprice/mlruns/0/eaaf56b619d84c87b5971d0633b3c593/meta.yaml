@@ -1,0 +1,15 @@
+artifact_uri: ./mlrun/0/eaaf56b619d84c87b5971d0633b3c593/artifacts
+end_time: 1595773088106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: eaaf56b619d84c87b5971d0633b3c593
+run_uuid: eaaf56b619d84c87b5971d0633b3c593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1595773088076
+status: 3
+tags: []
+user_id: toroi

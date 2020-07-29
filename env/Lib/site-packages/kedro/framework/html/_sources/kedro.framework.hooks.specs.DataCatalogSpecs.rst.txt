@@ -1,0 +1,24 @@
+kedro.framework.hooks.specs.DataCatalogSpecs
+============================================
+
+.. currentmodule:: kedro.framework.hooks.specs
+
+.. autoclass:: DataCatalogSpecs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      DataCatalogSpecs.after_catalog_created
+    
+   

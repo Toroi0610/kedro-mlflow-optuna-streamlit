@@ -1,0 +1,37 @@
+kedro.extras.datasets.holoviews.HoloviewsWriter
+===============================================
+
+.. currentmodule:: kedro.extras.datasets.holoviews
+
+.. autoclass:: HoloviewsWriter
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      HoloviewsWriter.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      HoloviewsWriter.__init__
+      HoloviewsWriter.exists
+      HoloviewsWriter.from_config
+      HoloviewsWriter.load
+      HoloviewsWriter.release
+      HoloviewsWriter.resolve_load_version
+      HoloviewsWriter.resolve_save_version
+      HoloviewsWriter.save
+    
+   

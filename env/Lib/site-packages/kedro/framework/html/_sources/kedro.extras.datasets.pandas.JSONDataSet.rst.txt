@@ -1,0 +1,38 @@
+kedro.extras.datasets.pandas.JSONDataSet
+========================================
+
+.. currentmodule:: kedro.extras.datasets.pandas
+
+.. autoclass:: JSONDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      JSONDataSet.DEFAULT_LOAD_ARGS
+      JSONDataSet.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      JSONDataSet.__init__
+      JSONDataSet.exists
+      JSONDataSet.from_config
+      JSONDataSet.load
+      JSONDataSet.release
+      JSONDataSet.resolve_load_version
+      JSONDataSet.resolve_save_version
+      JSONDataSet.save
+    
+   

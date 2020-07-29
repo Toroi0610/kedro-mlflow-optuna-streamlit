@@ -1,0 +1,29 @@
+kedro.io.MemoryDataSet
+======================
+
+.. currentmodule:: kedro.io
+
+.. autoclass:: MemoryDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      MemoryDataSet.__init__
+      MemoryDataSet.exists
+      MemoryDataSet.from_config
+      MemoryDataSet.load
+      MemoryDataSet.release
+      MemoryDataSet.save
+    
+   

@@ -1,0 +1,15 @@
+artifact_uri: ./mlrun/0/dadafa1224f54705882736acaefc37ea/artifacts
+end_time: 1596024631892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dadafa1224f54705882736acaefc37ea
+run_uuid: dadafa1224f54705882736acaefc37ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1596024631840
+status: 3
+tags: []
+user_id: toroi

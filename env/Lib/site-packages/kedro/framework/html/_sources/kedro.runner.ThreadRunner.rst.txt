@@ -1,0 +1,27 @@
+kedro.runner.ThreadRunner
+=========================
+
+.. currentmodule:: kedro.runner
+
+.. autoclass:: ThreadRunner
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      ThreadRunner.__init__
+      ThreadRunner.create_default_data_set
+      ThreadRunner.run
+      ThreadRunner.run_only_missing
+    
+   

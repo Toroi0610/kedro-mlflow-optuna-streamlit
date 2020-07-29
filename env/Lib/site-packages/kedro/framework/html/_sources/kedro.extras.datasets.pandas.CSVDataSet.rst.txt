@@ -1,0 +1,38 @@
+kedro.extras.datasets.pandas.CSVDataSet
+=======================================
+
+.. currentmodule:: kedro.extras.datasets.pandas
+
+.. autoclass:: CSVDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      CSVDataSet.DEFAULT_LOAD_ARGS
+      CSVDataSet.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      CSVDataSet.__init__
+      CSVDataSet.exists
+      CSVDataSet.from_config
+      CSVDataSet.load
+      CSVDataSet.release
+      CSVDataSet.resolve_load_version
+      CSVDataSet.resolve_save_version
+      CSVDataSet.save
+    
+   

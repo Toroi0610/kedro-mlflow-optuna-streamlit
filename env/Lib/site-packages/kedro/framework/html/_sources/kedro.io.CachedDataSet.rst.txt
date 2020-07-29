@@ -1,0 +1,29 @@
+kedro.io.CachedDataSet
+======================
+
+.. currentmodule:: kedro.io
+
+.. autoclass:: CachedDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      CachedDataSet.__init__
+      CachedDataSet.exists
+      CachedDataSet.from_config
+      CachedDataSet.load
+      CachedDataSet.release
+      CachedDataSet.save
+    
+   

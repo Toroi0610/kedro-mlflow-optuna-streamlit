@@ -1,0 +1,38 @@
+kedro.extras.datasets.tensorflow.TensorFlowModelDataset
+=======================================================
+
+.. currentmodule:: kedro.extras.datasets.tensorflow
+
+.. autoclass:: TensorFlowModelDataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      TensorFlowModelDataset.DEFAULT_LOAD_ARGS
+      TensorFlowModelDataset.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      TensorFlowModelDataset.__init__
+      TensorFlowModelDataset.exists
+      TensorFlowModelDataset.from_config
+      TensorFlowModelDataset.load
+      TensorFlowModelDataset.release
+      TensorFlowModelDataset.resolve_load_version
+      TensorFlowModelDataset.resolve_save_version
+      TensorFlowModelDataset.save
+    
+   

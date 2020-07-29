@@ -1,0 +1,39 @@
+kedro.extras.datasets.geopandas.GeoJSONDataSet
+==============================================
+
+.. currentmodule:: kedro.extras.datasets.geopandas
+
+.. autoclass:: GeoJSONDataSet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      
+      GeoJSONDataSet.DEFAULT_LOAD_ARGS
+      GeoJSONDataSet.DEFAULT_SAVE_ARGS
+   
+   
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      
+      GeoJSONDataSet.__init__
+      GeoJSONDataSet.exists
+      GeoJSONDataSet.from_config
+      GeoJSONDataSet.invalidate_cache
+      GeoJSONDataSet.load
+      GeoJSONDataSet.release
+      GeoJSONDataSet.resolve_load_version
+      GeoJSONDataSet.resolve_save_version
+      GeoJSONDataSet.save
+    
+   
