@@ -34,6 +34,7 @@ PLEASE DELETE THIS FILE ONCE YOU START WORKING ON YOUR OWN PROJECT!
 from typing import Any, Dict
 
 import pandas as pd
+import featuretools as ft
 from sklearn.preprocessing import StandardScaler
 from category_encoders import BinaryEncoder
 
@@ -81,6 +82,12 @@ from category_encoders import BinaryEncoder
 
 
 def standard_scaler(training_data: pd.DataFrame, test_data: pd.DataFrame) -> Dict[str, Any]:
+    pass
+
+
+def add_features(
+    data: pd.DataFrame
+) -> (pd.DataFrame):
     pass
 
 
